@@ -1,0 +1,32 @@
+body {
+  background: url("../img/negro.jpg");
+  background-attachment: fixed;
+}
+
+#logo {
+  background: rgb(31, 31, 31);
+}
+
+#menu ul li:hover {
+  background: rgb(31, 31, 31);
+}
+
+#menu {
+  background: rgb(31, 31, 31);
+}
+
+.button-more {
+  background-color: rgb(31, 31, 31);
+}
+
+.dom {
+  background-color: rgb(31, 31, 31);
+}
+
+#nav1 {
+  background: rgb(31, 31, 31);
+}
+
+footer {
+  background: rgb(31, 31, 31);
+}

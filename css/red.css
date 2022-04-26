@@ -1,0 +1,52 @@
+body {
+  background: url("../img/rosa8.PNG");
+  background-attachment: fixed;
+}
+
+#logo {
+  background: #eb9cca;
+}
+
+#menu ul li:hover {
+  background: #eb9cca;
+}
+
+#menu {
+  background: #eb9cca;
+  color: black;
+}
+
+.button-more {
+  background-color: #eb9cca;
+  color: black;
+}
+
+.dom {
+  background-color: #eb9cca;
+}
+
+#nav1 {
+  background: #eb9cca;
+}
+
+.txt-menu {
+  color: black;
+  margin-left: 50px;
+}
+
+.navbar-text {
+  color: rgb(90, 90, 90);
+}
+
+footer {
+  background: #eb9cca;
+  color: black;
+}
+
+.txt-carousel {
+  color: black;
+}
+
+.txt-carousel2 {
+  color: black;
+}

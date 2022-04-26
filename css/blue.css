@@ -1,0 +1,52 @@
+body {
+  background: url("../img/blue.jpg");
+  background-attachment: fixed;
+}
+
+#logo {
+  background: #50abe0;
+}
+
+#menu ul li:hover {
+  background: #50abe0;
+}
+
+#menu {
+  background: #50abe0;
+  color: black;
+}
+
+.button-more {
+  background-color: #50abe0;
+  color: black;
+}
+
+.dom {
+  background-color: #50abe0;
+}
+
+#nav1 {
+  background: #50abe0;
+  color: black;
+}
+
+.txt-menu {
+  color: black;
+}
+
+.navbar-text {
+  color: rgb(90, 90, 90);
+}
+
+footer {
+  background: #50abe0;
+  color: black;
+}
+
+.txt-carousel {
+  color: black;
+}
+
+.txt-carousel2 {
+  color: black;
+}

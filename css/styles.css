@@ -1,0 +1,51 @@
+.login-box {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  position: absolute;
+  top: 50px;
+  left: 10px;
+  left: calc(36% - 45px);
+}
+
+.lef {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  position: absolute;
+  top: 50px;
+  left: 10px;
+  left: calc(45% - 45px);
+}
+
+.righ {
+  background-position: right;
+  position: absolute;
+}
+
+.table {
+  border-collapse: collapse;
+  border: rgb(255, 255, 255) 1px solid;
+}
+
+body {
+  background-color: #ece2ce;
+}
+
+tr {
+  border: rgb(255, 255, 255) 1px solid;
+  background-color: #17a2b8;
+}
+
+th {
+  color: #ffffff;
+}
+
+td {
+  color: #ffffff;
+  background-color: #343a40;
+}
+
+.txt-formAdm {
+  color: #17a2b8;
+}
